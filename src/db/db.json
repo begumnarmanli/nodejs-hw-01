@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "dc69fef3-c913-4c0a-9918-60fc9ba15f7b",
+    "name": "Jimmie Davis",
+    "phone": "646-643-8575 x721",
+    "email": "Lexie_Fisher1@yahoo.com",
+    "job": "Future Infrastructure Strategist"
+  },
+  {
+    "id": "233ef252-a167-44bb-af62-65ec4315ea08",
+    "name": "Mr. Stewart Kuphal",
+    "phone": "971-392-8923 x8738",
+    "email": "Vincent.Volkman@gmail.com",
+    "job": "Corporate Infrastructure Orchestrator"
+  },
+  {
+    "id": "c0e40dd5-eb3f-4a49-ae96-f5ff3b47896d",
+    "name": "Don Strosin",
+    "phone": "1-289-706-3829",
+    "email": "Athena_OConner@gmail.com",
+    "job": "Investor Program Strategist"
+  },
+  {
+    "id": "98c185db-7b20-4f3a-b532-987260d63824",
+    "name": "Myra Gerhold",
+    "phone": "1-790-978-6246 x73895",
+    "email": "Pierre_Smitham16@hotmail.com",
+    "job": "Human Interactions Coordinator"
+  },
+  {
+    "id": "2c957f2d-989f-4d55-b6c4-45aec4cecd89",
+    "name": "Mrs. Eloise Abbott",
+    "phone": "242.695.6442",
+    "email": "Antwan_Bailey0@hotmail.com",
+    "job": "Principal Communications Designer"
+  }
+]
